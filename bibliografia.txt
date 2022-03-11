@@ -1,1 +1,2 @@
-Texto introducido en bibliografia
+Texto en segudno archivo de bibliografia, solucionando conflictos
+Más texto, no sé para qué
